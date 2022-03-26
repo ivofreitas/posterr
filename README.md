@@ -26,6 +26,11 @@ Getting started
 ```
 make setup
 ```
+Set up environment
+```
+make environment
+```
+
 Run all tests with coverage
 ```
 make coverage
