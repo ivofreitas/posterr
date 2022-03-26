@@ -1,0 +1,15 @@
+{
+  "server": {
+    "host": "localhost",
+    "port": "8088",
+    "base_path": "/v1/strider"
+  },
+  "mysql": {
+    "username": "user",
+    "password": "p45sw0rd",
+    "host": "localhost:3306",
+    "database": "strider",
+    "pool_conn": 5,
+    "conn_lifetime": "60s"
+  }
+}
